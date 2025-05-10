@@ -19,7 +19,6 @@ public class StandAloneTest2 extends BaseTest {
 	{
 		String productName = "ZARA COAT 3";
 		//Login page
-		LandingPage landingPage = launchApp();
 		ProductsPage productPage = landingPage.loginApp("fahad@email.com", "Khamgaon1");//go to next page through object inside
 		
 		//Products page
