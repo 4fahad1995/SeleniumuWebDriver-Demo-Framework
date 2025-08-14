@@ -3,7 +3,7 @@
 This project is designed and developed with the help of - 
 Udemy course (Rahul Shetty - "TOP RATED #1 Master SELENIUM java 4 (Latest) course" -5 Million students learning worldWide with great collaboration)
 
-I used knowledge gained throughout the course to develop a testing framework for a demo e-commerce application as part of my self-initiative.
+I used knowledge gained throughout the course to develop a testing framework for a e-commerce application as part of my self-initiative.
 
 The website I used for automation is Swag Labs (https://www.saucedemo.com/)
 
